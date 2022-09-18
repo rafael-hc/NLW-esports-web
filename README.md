@@ -2,6 +2,7 @@
 
 
 <div style="display:grid; grid-template-columns: 1fr 1fr;">
+
   ![Home Page Desktop](https://dsm01pap007files.storage.live.com/y4mW1gKfkgnr8Zqzl8dcPTCPjWyx4Xn8HkD7_ORAxeGArqjwt1Qz9CeGUHgCvVzmbqMUyfcmvxmNq3Zdzv7J5qrPCZraHP4bcVk8ISJNR-4GGthlGnOQRUOcluWRii5fEP6tYSbbLvd_Gha72S40j9XJk7hp3AsO2FOrgiUyr7kOsUuH8hkG4ugSXGXdJGYHYflQlwl62Qrja91T0lfVGYMFDXmHRmgsAEoy2Ke9yJ0if0?encodeFailures=1&width=1754&height=815)
   
   ![Home Page Desktop Dialog](https://dsm01pap007files.storage.live.com/y4mxvkRQy7GPcHThM62BE9eo83Cbx3jsnVB2_zrOKhCAfLG08PdOsOTWchwQ7InIOvaJdKPjz2SgWpeDWQ0Rq5Oq7C9P3toVaHNC1KIye2iHM9qpFuHVk2U9fV2h9ZONRQmIEWMUTQI6DjjC7ZKwDA0vsl-edqKRXfvS9bNZVyJQhUISoQO4GAti34jsczej4uDVhFpTqWFlGXAHDz6d2D1cbgRiKP-k4ESqZUs_lwE0rk?encodeFailures=1&width=1754&height=815)
