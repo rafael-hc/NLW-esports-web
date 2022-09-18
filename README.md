@@ -1,7 +1,7 @@
 # NLW ESports - Ignite
 
 
-<div display="flex">
+<div align="center">
 
  <div>
 
